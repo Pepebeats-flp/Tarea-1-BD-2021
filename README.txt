@@ -1,8 +1,7 @@
 
 Tarea 1 Bases de Datos
 José Pinto
-Rut: 20922898-K
-Rol: 202073559-K
+
 
 Aclaraciones:
 
